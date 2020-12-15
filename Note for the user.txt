@@ -1,0 +1,2 @@
+Dear user,
+Simulink model for the DC motor assembly is in the file Motor_Model_Simscape. The parameters for the model are described in the file Srikumar_Project_controls.
